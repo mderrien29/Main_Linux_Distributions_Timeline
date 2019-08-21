@@ -2,4 +2,4 @@
 
 > Because nobody cares about the other 9000
 
-![image](gldt.svg)
+![image](timeline.png)
